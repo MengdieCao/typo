@@ -1,0 +1,5 @@
+<li>Login: admin</li>
+      <li>Password: ozKRrKE</li>
+      
+      
+cucumber features/bug_fix.feature
